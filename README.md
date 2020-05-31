@@ -9,7 +9,7 @@ This short game was inspired by a much more polished game called "Evoland". I ha
 
 # Assets
 I needed sprites for characters, animation, objects, etc. I also needed tilemaps and other graphics. So since this was just a demo project, I decided to get all my assets from the game I based my short game on.
-I opened the Evoland game .apk file and looked around for a folde that could contain game assets. Instead, I found a PAK file named "res.pak". It was large enough for me to suspect it contained all game assets.
+I opened the Evoland game .apk file and looked around for a folder that could contain game assets. Instead, I found a PAK file named "res.pak". It was large enough for me to suspect it contained all game assets.
 According to the Quake Wiki website:
 >It is an exceedingly simple uncompressed archive format which preserves file paths and that's about it
 
